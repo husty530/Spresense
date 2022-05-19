@@ -1,7 +1,0 @@
-{
-    "configuration": "Core=Main,Memory=768,Debug=Disabled,UploadSpeed=115200",
-    "board": "SPRESENSE:spresense:spresense",
-    "programmer": "SPRESENSE:sfutools",
-    "port": "COM4",
-    "sketch": "arduino\\camera_stream\\camera_stream.ino"
-}
